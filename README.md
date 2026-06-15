@@ -43,3 +43,7 @@ When the "negative impact" buttons are pressed, the once vibrant landscape begin
 ## Credits
 **P5.js References**
 - https://p5js.org/reference/
+
+**Research Sources**
+- https://ecolecanada.gc.ca/tools/articles/ai-environmental-effects-eng.aspx
+- https://harvardsciencereview.org/2026/02/28/re-architecting-the-ai-server-the-hidden-water-cost-of-data-centers-part-ii/
