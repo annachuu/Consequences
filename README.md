@@ -15,6 +15,9 @@ Positive Impact:
 
 When the "negative impact" buttons are pressed, the once vibrant landscape beginds to fade. The trees lose colour, the sun dims, and the scene becomes quieter, reflecting the concept of our **Consequences**.
 
+## MakeyMakey Setup
+![Alt Text](images/IMG_5487.jpeg)
+
 ## Demo
 **Play Here**
 - https://annachuu.github.io/Consequences/
