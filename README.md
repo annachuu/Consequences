@@ -16,12 +16,12 @@ The project uses a MakeyMakey controller connected to Play-Doh buttons as inputs
 (Can substitute the Play-Doh with any other conductive objects/materials)
 
 Negative Impact:
-- **GENREATE**
-- **CREATE**
-- **EXPLAIN**
+- **GENREATE** -> Down Arrow
+- **CREATE** -> Left Arrow
+- **EXPLAIN** -> Right Arrow
 
 Positive Impact:
-- **DO IT YOURSELF**
+- **DO IT YOURSELF** -> Up Arrow
 
 When the "negative impact" buttons are pressed, the once vibrant landscape beginds to fade. The trees lose colour, the sun dims, and the scene becomes quieter, reflecting the concept of our **Consequences**.
 
