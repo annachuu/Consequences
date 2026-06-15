@@ -1,8 +1,8 @@
 # Consequences
 Is a p5.js project that explores how generative AI affects the environment thorugh interactive visuals and physical imputs (from MakeyMakey Circuit). The scene starts off bright and full of life, to then gradually fade as users trigger actions that represent technological impact. This project shows how creation and consumption coexist.
 
-**CTCH 204:** Creative Coding (Winter 2026)
-**Project Timeline:** 19th March 2026 - 30th March 2026
+- **CTCH 204:** Creative Coding (Winter 2026)
+- **Project Timeline:** 19th March 2026 - 30th March 2026
 
 ## Demo
 **Play Here**
