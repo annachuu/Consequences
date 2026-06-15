@@ -1,9 +1,19 @@
 # Consequences
-Is a p5.js project that visualizes the environmental and social effects of generative AI through an interactive scene. It starts with a bright, lively landscape with trees, sunlight, and movement that slowly fades away as users trigger the "harmful" actions, symbolizing how technological growth can possibly alter natural balance.
+Is a p5.js project that explores how generative AI affects the environment thorugh interactive visuals and physical imputs (from MakeyMakey Circuit). The scene starts off bright and full of life, to then gradually fade as users trigger actions that represent technological impact. This project shows how creation and consumption coexist.
 
-The project input is through the Makey Makey circuit for a more interactive experience
+## Interaction
+The project uses a MakeyMakey controller connected to Play-Doh buttons as inputs. Each button activates a different action. 
+(Can substitute the Play-Doh with any other conductive objects/materials)
 
-The concept was inspired by recent discussions around new GenAI data centers being built throughout our cities. The project uses p5.js functions for mapping, scalling, and colour transitions. The piece turns data-driven ideas into a physical and emotional experience. 
+Negative Impact:
+- **GENREATE**
+- **CREATE**
+- **EXPLAIN**
+
+Positive Impact:
+- **DO IT YOURSELF**
+
+When the "negative impact" buttons are pressed, the once vibrant landscape beginds to fade. The trees lose colour, the sun dims, and the scene becomes quieter, reflecting the concept of our **Consequences**.
 
 ## Demo
 **Play Here**
@@ -24,7 +34,8 @@ The concept was inspired by recent discussions around new GenAI data centers bei
 ## Built With
 - P5.js
 - HTML/CSS
-- Makey Makey Circuit
+- MakeyMakey Circuit
+- Play-Doh as the conductive material for button design
 
 ## Credits
 **P5.js References**
